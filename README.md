@@ -4,8 +4,6 @@ DashCam-has gps, speed and time tracking, uses Rasberry pi zero 2 with a rasberr
 
 
 BOM:  
-M2x4mm, X8  
-M2x20, X4  
 
 
 
@@ -26,3 +24,4 @@ https://www.aliexpress.com/item/4000206046150.html  ,  6x6x9.5
 https://www.aliexpress.com/item/1005007346338083.html  ,  2.8 TFT ST7789  
 https://rpishop.cz/mipi-kamerove-moduly/5600-raspberry-pi-camera-module-3-wide.html  
 https://rpishop.cz/raspberry-pi-zero/5114-raspberry-pi-zero-2-w-s-pripajenym-gpio-headerem.html   
+https://www.aliexpress.com/item/1005008269323359.html  ,  M2x16mm and M2x4mm  
