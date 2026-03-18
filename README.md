@@ -1,5 +1,5 @@
 # DashCam  
-## DashCam is my project for stasis, it has alot of capabilities such as, it can precisely track location, speed and time also has a great RP Pi camera V2, has 7 buttons to control playback on 2.8INCH screen, all powered by RP Pi 2 Zero W  
+### DashCam is my project for stasis, it has alot of capabilities such as, it can precisely track location, speed and time also has a great RP Pi camera V2, has 7 buttons to control playback on 2.8INCH screen, all powered by RP Pi 2 Zero W  
 
 
 
@@ -40,4 +40,21 @@
 | Raspberry Pi Zero 2 W | brain of the whole project | 27.00 | 1 | 27.00 | [Link](https://www.aliexpress.com/item/1005008147614202.html) | aliexpress |
 | M2x4mm, M2x16m | to hold all parts and the case together | 1.00 | 2 | 2.00 | [Link](https://www.aliexpress.com/item/1005008269323359.html) | aliexpress |
 
+</details>
+
+<details>
+  <summary>For Future</summary>
+  
+## here you can see what i plan to add in the future:  
+
+**UPS HAT/stable power**   
+Beacose it can have 2 batteries in it so it would be posible to use the device without having to be plugged into a charger.  
+
+**Speaker**  
+To hear playback with audio  
+
+**Bigger Micro SD Card**  
+32GB is enough but if i wanted to store more fotage on it, it would be nice to have more storage.  
+
+  
 </details>
