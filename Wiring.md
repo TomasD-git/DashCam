@@ -2,7 +2,7 @@
 
 ## Camera  
 
-Replace the stock cable with the new one, and connect into the RP Pi camera slot.  
+Replace the stock cable with the new one, and connect into the RPi camera slot.  
 
 ## Display ST7789 2.8" TFT  
 
@@ -40,7 +40,7 @@ Button 2 -> GPIO 22 / GND    // Toggle display backlight (camera keeps running)
 Button 3 -> GPIO 3 / GND     // Save recording + safe shutdown  
 Button 4 -> GPIO 5 / GND     // Open / close playback  
 Button 5 -> GPIO 6 / GND     // Back in playback  
-Button 6 -> GPIO 12 / GND    // stop/play plaback  
+Button 6 -> GPIO 12 / GND    // stop/play playback  
 Button 7 -> GPIO 13 / GND    // Forward in playback  
 
 On each 4-pin tact switch connect one side pair to GPIO, other side to shared GND.   
@@ -49,7 +49,7 @@ On each 4-pin tact switch connect one side pair to GPIO, other side to shared GN
 Put the SD Card into the RP Pi  
 
 ## Screws  
-Screw the screws into the correct hole, M2x4mm is to hold camera and RP Pi, the M2x16mm is to hold the case together.  
+Insert the screws into the correct hole, M2x4mm is to hold camera and RP Pi, the M2x16mm is to hold the case together.  
 
 
 
@@ -57,7 +57,7 @@ Screw the screws into the correct hole, M2x4mm is to hold camera and RP Pi, the 
 <details>
   <summary>For Future</summary>
   
-  ## here you can see wiring for what i plan to add in the future  
+  ## Here you can see wiring for what i plan to add in the future  
 
 
 ## UPS HAT  
