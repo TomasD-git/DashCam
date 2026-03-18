@@ -1,5 +1,5 @@
 # DashCam  
-DashCam-has gps, speed and time tracking, uses Rasberry pi zero 2 with a rasberry cam  
+## DashCam is my project for stasis, it has alot of capabilities such as, it can precisely track location, speed and time also has a great RP Pi camera V2, has 7 buttons to control playback on 2.8INCH screen, all powered by RP Pi 2 Zero W  
 
 
 
