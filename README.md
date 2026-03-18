@@ -5,7 +5,7 @@ DashCam-has gps, speed and time tracking, uses Rasberry pi zero 2 with a rasberr
 
 
 TO ADD:  
-SD CARD  
+
 
 BOM:  
 
