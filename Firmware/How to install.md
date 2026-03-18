@@ -1,8 +1,10 @@
 ## Run these after installing all files in right dir.  
 
+### Flash PI OS Lite  
+**Run these from Terminal or CMD**
 
-scp main.py install.sh pi@raspberrypi.local:/home/pi/  
+scp main.py setup.sh pi@raspberrypi.local:/home/pi/  
 
-sudo bash install.sh  
+ssh pi@raspberrypi.local  
 
-sudo reboot  
+bash setup.sh  
