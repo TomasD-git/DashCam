@@ -1,7 +1,7 @@
 # DashCam  
 ### DashCam is my project for stasis, it has alot of capabilities such as, it can precisely track location, speed and time also has a great RP Pi camera V2, has 7 buttons to control playback on 2.8INCH screen, all powered by RP Pi 2 Zero W  
 
-***How it works?**  
+**How it works?**  
 It has camera and microphone which record audio and video, saves to Micro Sd Card.      
 Has screen where you can view playback, you can even control it with 7 buttons.  
 
