@@ -35,13 +35,13 @@ L/R -> GND
 
 ## 7× Tact Switches  
 
-Button 1 -> GPIO 23 / GND  
-Button 2 -> GPIO 22 / GND  
-Button 3 -> GPIO 4 / GND  
-Button 4 -> GPIO 5 / GND  
-Button 5 -> GPIO 6 / GND  
-Button 6 -> GPIO 12 / GND  
-Button 7 -> GPIO 13 / GND  
+Button 1 -> GPIO 23 / GND    // Start / Stop recording  
+Button 2 -> GPIO 22 / GND    // Toggle display backlight (camera keeps running)  
+Button 3 -> GPIO 4 / GND     // Save recording + safe shutdown  
+Button 4 -> GPIO 5 / GND     // Open / close playback  
+Button 5 -> GPIO 6 / GND     // Back in playback  
+Button 6 -> GPIO 12 / GND    // stop/play plaback  
+Button 7 -> GPIO 13 / GND    // Forward in playback  
 
 On each 4-pin tact switch connect one side pair to GPIO, other side to shared GND.   
 Enable internal pull-ups in code(button press reads LOW).  
