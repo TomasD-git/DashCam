@@ -4,10 +4,6 @@
 
 Replace the stock cable with the new one,and connect into the RP Pi camera slot.  
 
-## UPS HAT  
-
-Slap it right on top of the RP Pi. put both batteries in it. 
-
 ## Display ST7789 2.8" TFT  
 
 VCC -> 3.3V  
@@ -37,14 +33,6 @@ WS -> GPIO 19
 SD -> GPIO 20  
 L/R -> GND  
 
-
-## Active Buzzer/Speaker  
-
-VCC -> 3.3V  
-I/O -> GPIO 17  
-GND -> GND  
-
-
 ## 7× Tact Switches  
 
 Button 1 -> GPIO 23 / GND  
@@ -63,3 +51,25 @@ Put the SD Card into the RP Pi
 
 ## Screws  
 Screw the screws into the correct hole, M2x4mm is to hold camera and RP Pi, the M2x16mm is to hold the case together.  
+
+
+
+
+<details>
+  <summary>For Future</summary>
+  
+  ## here you can see wiring for what i plan to add in the future  
+
+
+## UPS HAT  
+Slap it right on top of the RP Pi. put both batteries in it. 
+
+
+## Active Buzzer/Speaker  
+VCC -> 3.3V  
+I/O -> GPIO 17  
+GND -> GND  
+
+
+  
+</details>
