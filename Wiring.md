@@ -2,7 +2,7 @@
 
 ## Camera  
 
-Replace the stock cable with the new one,and connect into the RP Pi camera slot.  
+Replace the stock cable with the new one, and connect into the RP Pi camera slot.  
 
 ## Display ST7789 2.8" TFT  
 
@@ -44,7 +44,6 @@ Button 6 -> GPIO 12 / GND    // stop/play plaback
 Button 7 -> GPIO 13 / GND    // Forward in playback  
 
 On each 4-pin tact switch connect one side pair to GPIO, other side to shared GND.   
-Enable internal pull-ups in code(button press reads LOW).  
 
 ## SD Card  
 Put the SD Card into the RP Pi  
@@ -62,7 +61,7 @@ Screw the screws into the correct hole, M2x4mm is to hold camera and RP Pi, the 
 
 
 ## UPS HAT  
-Slap it right on top of the RP Pi. put both batteries in it. 
+Slap it right on top of the RP Pi, put both batteries in it. 
 
 
 ## Active Buzzer/Speaker  
