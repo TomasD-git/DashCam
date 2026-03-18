@@ -22,10 +22,10 @@ BOM:
 
 
 Links:  
-https://www.aliexpress.com/item/1005008269323359.html
-https://www.aliexpress.com/item/1005008147614202.html
-https://www.aliexpress.com/item/1005006000564400.html
-https://www.aliexpress.com/item/1005007346338083.html  ,  2.8 TFT ST7789
-https://www.aliexpress.com/item/4000206046150.html  ,  6x6x9.5
-https://www.aliexpress.com/item/1005007943783299.html
-https://www.aliexpress.com/item/1005006323393609.html  ,  NEO-8M with antenna
+https://www.aliexpress.com/item/1005008269323359.html  ,  M2x4, M2x16  
+https://www.aliexpress.com/item/1005008147614202.html  
+https://www.aliexpress.com/item/1005006000564400.html  
+https://www.aliexpress.com/item/1005007346338083.html  ,  2.8 TFT ST7789  
+https://www.aliexpress.com/item/4000206046150.html  ,  6x6x9.5  
+https://www.aliexpress.com/item/1005007943783299.html  
+https://www.aliexpress.com/item/1005006323393609.html  ,  NEO-8M with antenna  
