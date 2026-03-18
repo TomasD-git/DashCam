@@ -2,22 +2,11 @@
 
 <img width="464" height="300" alt="Screenshot 2026-03-18 174442" src="https://github.com/user-attachments/assets/33ae5e6f-092a-4b74-9f8c-cbe74205fd66" />
 
-### DashCam is my project for stasis, it has many capabilities such as, it can precisely track location, speed and time also has a great RP Pi camera V2, has 7 buttons to control playback on 2.8INCH screen, all powered by RP Pi 2 Zero W  
+### DashCam is my project for stasis, it has many capabilities such as, it can precisely track location, speed and time also has a great RPi camera V2, has 7 buttons to control playback on 2.8" screen, all powered by RPi Zero 2 W  
 
 **How it works?**  
-It has camera and microphone which record audio and video, saves to Micro Sd Card.      
+It has a camera and microphone which record audio and video, saves to Micro SD Card.      
 Has screen where you can view playback of recorded footage, you can even control it with 7 buttons.  
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -32,7 +21,7 @@ Has screen where you can view playback of recorded footage, you can even control
 | 2.8 TFT ST7789 | to see playback on | 7.50 | 1 | 7.50 | [Link](https://www.aliexpress.com/item/1005007346338083.html) | aliexpress |
 | 32GB Micro SD Card + reader | To store the firmware and OS on + reader to actually flash it | 11.00 | 1 | 11.00 | [Link](https://www.aliexpress.com/item/1005007501610476.html) | aliexpress |
 | isolation tape | NEEDED because there are only 2, 3.3V on the RP Pi so I will need to tape together more cables to use more things out of 1, 3.3V | 4.38 | 1 | 4.38 | [Link](https://www.alza.cz/hobby/yato-paska-izolacni-250-19-mm20-m-cerna-d7772288.htm) | alza |
-| Micro USB to USB A | to power the RP Pi | 4.38 | 1 | 4.38 | [Link](https://www.alza.cz/vention-usb-2-0-to-micro-usb-2a-cable-0-5m-black-d7375191.htm) | alza |
+| Micro USB to USB A | to power the RPI | 4.38 | 1 | 4.38 | [Link](https://www.alza.cz/vention-usb-2-0-to-micro-usb-2a-cable-0-5m-black-d7375191.htm) | alza |
 | Camera wire to RP Pi 2 zero | the cable that comes with the stock camera isn't connectable to the RP Pi so this one fixes it | 0.61 | 1 | 0.61 | [Link](https://www.aliexpress.com/item/32901067740.html) | aliexpress |
 | M-M jumper wires | to connect everything together | 1.00 | 1 | 1.00 | [Link](https://www.aliexpress.com/item/32921454163.html) | aliexpress |
 | M-F jumper wires | to connect everything together | 1.00 | 1 | 1.00 | [Link](https://www.aliexpress.com/item/32921454163.html) | aliexpress |
@@ -67,7 +56,7 @@ Has screen where you can view playback of recorded footage, you can even control
 ## here you can see what i plan to add in the future:  
 
 **UPS HAT/stable power**   
-Because it can have 2 batteries in it, so it would be posible to use the device without having to be plugged into a charger.  
+Because it can have 2 batteries in it, so it would be possible to use the device without having to be plugged into a charger.  
 
 **Speaker**  
 To hear playback with audio  
