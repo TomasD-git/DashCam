@@ -2,7 +2,7 @@
 
 <img width="464" height="300" alt="Screenshot 2026-03-18 174442" src="https://github.com/user-attachments/assets/33ae5e6f-092a-4b74-9f8c-cbe74205fd66" />
 
-### DashCam is my project for stasis, it has many capabilities such as, it can precisely track location, speed and time also has a great RPi camera V2, has 7 buttons to control playback on 2.8" screen, all powered by RPi Zero 2 W  
+### DashCam is my project for stasis, it has many capabilities such as, it can precisely track location, speed and time also has a great RPi camera, has 7 buttons to control playback on 2.8" screen, all powered by RPi Zero 1.3 W  
 
 **How it works?**  
 It has a camera and microphone which record audio and video, saves to Micro SD Card.      
